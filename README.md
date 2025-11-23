@@ -156,7 +156,20 @@ pip install -r requirements.txt
 5. **Stop monitoring:**
    - Click "Stop" button to disconnect
 
-![GUI Screenshots](docs/images/gui_demo.png)
+#### 💻 GUI Interface
+
+<table>
+  <tr>
+    <td width="50%">
+      <img src="GUI%20Active%20System.png" alt="GUI Active State" width="100%"/>
+      <p align="center"><em>System Active - Monitoring Mode</em></p>
+    </td>
+    <td width="50%">
+      <img src="GUI%20Alarm%20Triggered.png" alt="GUI Alarm Triggered" width="100%"/>
+      <p align="center"><em>Alarm Triggered - Alert Mode</em></p>
+    </td>
+  </tr>
+</table>
 
 ## 📋 System Architecture
 
