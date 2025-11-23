@@ -5,6 +5,9 @@
 
 A comprehensive alarm monitoring system that integrates Arduino hardware with a Python desktop application, providing multi-platform alerts through visual, auditory, and desktop notification channels.
 
+## 📷 Project Demo
+
+### Hardware in Action
 <p align="center">
   <img src="IMG_3490.JPG" alt="System Active State" width="700"/>
   <br/>
@@ -78,7 +81,13 @@ Switches:
   Push Button   → D7 → GND (INPUT_PULLUP)
 ```
 
-![Circuit Diagram](docs/images/circuit_diagram.png)
+## 🔌 Circuit Diagram
+
+<p align="center">
+  <img src="Screenshot%202025-11-23%20163754.png" alt="Circuit Diagram" width="800"/>
+  <br/>
+  <em>Complete circuit schematic showing Arduino connections</em>
+</p>
 
 ## 💻 Software Setup
 
