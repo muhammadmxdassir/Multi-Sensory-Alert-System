@@ -5,7 +5,17 @@
 
 A comprehensive alarm monitoring system that integrates Arduino hardware with a Python desktop application, providing multi-platform alerts through visual, auditory, and desktop notification channels.
 
-![System Demo](docs/images/system_active.jpg)
+<p align="center">
+  <img src="IMG_3490.JPG" alt="System Active State" width="700"/>
+  <br/>
+  <em>System in Active State - Green LED indicates system is armed and ready</em>
+</p>
+
+<p align="center">
+  <img src="IMG_3491.JPG" alt="Alarm Triggered State" width="700"/>
+  <br/>
+  <em>Alarm State - Red LEDs flashing with buzzer active and LCD displaying alert</em>
+</p>
 
 ## 🎯 Project Overview
 
